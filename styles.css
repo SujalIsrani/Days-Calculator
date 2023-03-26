@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
